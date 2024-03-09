@@ -1,8 +1,7 @@
 /* Import with one line (V4) */
 @import "tailwindcss";
 
-/* Legacy */
-/* 
+/* Legacy (V3)
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
