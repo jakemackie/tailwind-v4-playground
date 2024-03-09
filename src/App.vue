@@ -9,7 +9,7 @@
         target="_blank"
         rel="noreferrer"
       >
-        <code>(v3.0.0)</code>
+        <code>(v3.4.19)</code>
       </a>
 
       <!-- Tailwind -->
@@ -20,7 +20,7 @@
         target="_blank"
         rel="noreferrer"
       >
-        <code>(Alpha v4.0.0)</code>
+        <code>(v4.0.0-alpha)</code>
       </a>
     </span>
   </div>
